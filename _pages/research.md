@@ -5,4 +5,4 @@ layout: single
 author_profile: true
 ---
 
-![Research Poster]({{ base_path }}/images/Rodts_Aidan_REU_Poster.jpg){:width="100"}
+![Research Poster](images/Rodts_Aidan_REU_poster.jpg){:width="100"}
