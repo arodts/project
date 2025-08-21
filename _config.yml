@@ -9,10 +9,10 @@
 # Basic Site Settings
 locale                   : "en-US"
 site_theme               : "default"
-title                    : "Aidan Rodts' CIERA Research"
+title                    : "CIERA Research"
 title_separator          : "-"
 name                     : &name "Aidan Rodts"
-description              : &description "personal description"
+description              : &description "Astrophysics Student at DePaul University"
 url                      : https://arodts.github.io/project # the base hostname & protocol for your site e.g. "https://[your GitHub username].github.io" or if you already have some other page hosted on Github then use "https://[your GitHub username].github.io/[Your Repo Name]"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "arodts.github.io/project"
@@ -22,14 +22,14 @@ repository               : "arodts.github.io/project"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "monkey.jpg"
-  name             : "Your Sidebar Name"
+  avatar           : "aidan.png"
+  name             : "Aidan Rodts"
   pronouns         : # example: "she/her"  
-  bio              : "Short biography for the left-hand sidebar"
-  location         : "Earth"
-  employer         : "Red Brick University"
+  # bio              : "Short biography for the left-hand sidebar"
+  location         : "Chicago, Illinois"
+  employer         : "DePaul University"
   uri              : # URL
-  email            : "none@example.org" 
+  email            : "arodts@depaul.edu" 
 
   # Academic websites
   academia         : # URL
